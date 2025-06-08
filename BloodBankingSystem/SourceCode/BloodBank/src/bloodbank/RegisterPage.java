@@ -10,7 +10,7 @@ import java.sql.Statement;
 import javax.swing.JOptionPane;
 /**
  *
- * @author SHIVA KRISHNA
+ * @author ANANYA JANNATHA
  */
 public class RegisterPage extends javax.swing.JFrame {
 

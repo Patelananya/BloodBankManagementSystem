@@ -10,7 +10,7 @@ import net.proteanit.sql.DbUtils;
 import javax.swing.JOptionPane;
 /**
  *
- * @author SHIVA KRISHNA
+ * @author ANANYA JANNATHA
  */
 public class ListAllBanks extends javax.swing.JFrame {
 

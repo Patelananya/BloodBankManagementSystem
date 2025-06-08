@@ -8,7 +8,7 @@ import DataBaseConnections.ConnectionProvider;
 import javax.swing.JOptionPane;
 /**
  *
- * @author SHIVA KRISHNA
+ * @author ANANYA JANNATHA
  */
 public class UpdateDonor extends javax.swing.JFrame {
 

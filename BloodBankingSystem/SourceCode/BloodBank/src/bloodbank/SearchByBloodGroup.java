@@ -10,7 +10,7 @@ import javax.swing.JOptionPane;
 import javax.swing.JTable;
 /**
  *
- * @author SHIVA KRISHNA
+ * @author ANANYA JANNATHA
  */
 public class SearchByBloodGroup extends javax.swing.JFrame {
 
