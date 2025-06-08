@@ -86,7 +86,7 @@ The **Blood Bank Management System** is a comprehensive digital platform designe
 ### Register New User  
 ![Register](https://github.com/Patelananya/BloodBankManagementSystem/blob/master/screenshots/Register%20User.png?raw=true)
 
-### Functions 2  
+### Function 1  
 ![Functions 2](https://github.com/Patelananya/BloodBankManagementSystem/blob/master/screenshots/Functions-2.png?raw=true)
 
 ### Add New Donor  
@@ -95,32 +95,32 @@ The **Blood Bank Management System** is a comprehensive digital platform designe
 ### Update Donor Details  
 ![Update Donor](https://github.com/Patelananya/BloodBankManagementSystem/blob/master/screenshots/Update%20Donar%20Details.png?raw=true)
 
-### Functions 1  
+### Function 2  
 ![Functions 1](https://github.com/Patelananya/BloodBankManagementSystem/blob/master/screenshots/Fuunctions-1.png?raw=true)
 
-### Search Donor by Blood Group  
+### Search by Blood Group  
 ![Search Donor by Blood Group](https://github.com/Patelananya/BloodBankManagementSystem/blob/master/screenshots/Search%20Donar%20by%20Blood%20Group.png?raw=true)
 
-### Search Donors by Location  
+### Search by Location  
 ![Search by Location](https://github.com/Patelananya/BloodBankManagementSystem/blob/master/screenshots/Serch%20Donars%20%20through%20Location.png?raw=true)
 
 ### All Donor Details  
 ![All Donor Details](https://github.com/Patelananya/BloodBankManagementSystem/blob/master/screenshots/All%20Donar%20Details.png?raw=true)
 
-### Functions 4  
+### Function 3  
 ![Functions 4](https://github.com/Patelananya/BloodBankManagementSystem/blob/master/screenshots/Functions-4.png?raw=true)
 
 ### Delete Donor  
 ![Delete Donor](https://github.com/Patelananya/BloodBankManagementSystem/blob/master/screenshots/Delete%20Donar.png?raw=true)
 
-### Functions 3  
+### Functions 4  
 ![Functions 3](https://github.com/Patelananya/BloodBankManagementSystem/blob/master/screenshots/Functions-3.png?raw=true)
 
 ### Add Blood Bank  
-![Add Blood Bank](https://github.com/Patelananya/BloodBankManagementSystem/blob/master/screenshots/Add%20BloodBank.png?raw=true)
+![Add Blood Bank](https://github.com/Patelananya/BloodBankManagementSystem/blob/master/screenshots/Add%20new%20BloodBank.png?raw=true)
 
 ### Delete Blood Bank  
-![Delete Blood Bank](https://github.com/Patelananya/BloodBankManagementSystem/blob/master/screenshots/Delete%20Blood%20Bank.png?raw=true)
+![Delete Blood Bank](https://github.com/Patelananya/BloodBankManagementSystem/blob/master/screenshots/Delete%20BloodBank.png?raw=true)
 
 ### Show All Blood Banks  
 ![Show All Blood Banks](https://github.com/Patelananya/BloodBankManagementSystem/blob/master/screenshots/Show%20All%20BloodBanks.png?raw=true)
