@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author SHIVA KRISHNA
+ * @author ANANYA JANNATHA
  */
 public class AddBloodBank extends javax.swing.JFrame {
 
